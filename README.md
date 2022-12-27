@@ -1,5 +1,3 @@
-# RekstinaGitHomework
-
 ## Команды GIT
 
 git -- version – версия ГИТа.
